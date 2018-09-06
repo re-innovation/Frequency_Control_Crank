@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP +12C
+K POWER, PWR
+$ENDCMP
+#
+$CMP +5VARD
+K POWER, PWR
+$ENDCMP
+#
+$CMP VEXT
+K POWER, PWR
+$ENDCMP
+#
+#End Doc Library
